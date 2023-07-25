@@ -3,9 +3,9 @@
 -r dev.txt
 
 # Mozilla's CA bundle
-certifi==2015.11.20.1 \
-    --hash=sha256:ad86683448f7483d4147a64d96856e551734e594c4563747e9fbe2368df13d3f \
-    --hash=sha256:30b0a7354a1b32caa8b4705d3f5fb2dadefac7ba4bf8af8a2176869f93e38f16
+certifi==2023.7.22 \
+    --hash=sha256:539cc1d13202e33ca466e88b2807e29f4c13049d6d87031a3c110744495cb082 \
+    --hash=sha256:92d6037539857d8206b8f6ae472e8b77db8058fec5937a1ef3f54304089edbb9
  
 # Load testing
 locustio==0.7.3 \
